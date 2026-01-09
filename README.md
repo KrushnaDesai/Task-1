@@ -1,2 +1,2 @@
-# Task-1
+# Assignment
 Perform Basic Mathematical Operations
